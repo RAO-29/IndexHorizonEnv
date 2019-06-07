@@ -8,6 +8,7 @@ INSTALL pip3 and Tensorflow
 
 INSTALL DRL FRAMEWORKS:
 Clone the entire repository from "https://github.com/pshevche/drl-frameworks"(This clones dopamine, horizon and ray)
+older version: https://github.com/pshevche/drl-frameworks/tree/c82792f1d0e076568c7905793e040faf4f2d8be3
 Open the Terminal and set the path of the downloaded repository
 Create Anaconda environments by running ./scripts/setup.sh.
 RUNNING SAMPLE EXPERIMENTS IN CARTPOLE ENVIRONMENT:
